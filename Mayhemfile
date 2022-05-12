@@ -2,4 +2,4 @@ project: jacob-clemente/extract-xiso
 target: extract-xiso
 
 cmds:
-  - cmd: /extract-xiso -x @@
+  - cmd: /extract-xiso -r @@
